@@ -1,5 +1,8 @@
 <?php
 
+// https://www.youtube.com/watch?v=hOF2NQkkyYk
+
+
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
 
